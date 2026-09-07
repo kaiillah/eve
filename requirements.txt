@@ -1,0 +1,9 @@
+numpy
+opencv-python
+face-recognition
+ollama
+sounddevice
+soundfile
+simpleaudio
+pyserial
+faster-whisper

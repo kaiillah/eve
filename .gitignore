@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# Runtime face embeddings, names, roles, and conversation history
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+# Download model assets separately; keep model definitions in Git.
+*.onnx
+*.gguf
