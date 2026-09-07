@@ -53,7 +53,7 @@ The database is created automatically. [DB Browser for SQLite](https://sqlitebro
 
 <img src="media/Eve-at-booth.jpeg" alt="Eve at the Allen Robotics booth with its microphone" width="420">
 
-[Watch the booth clip (26 seconds)](media/booth-demo.mp4): part of the Allen Eagle Robotics booth interaction with Nicholas Powell and Gerard Andrews.
+[Watch the booth clip (26 seconds)](media/booth-demo.mp4): part of the Allen Eagle Robotics booth interaction with Nicolas Powell and Gerard Andrews.
 
 The competition implementation used one Python script. After competition, it was split into eight modules and tested on the original setup. This edition adds configurable persona handling and installation documentation. The original script remains in `legacy/` as a historical reference and fallback with its original settings.
 
