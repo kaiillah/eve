@@ -55,6 +55,8 @@ The database is created automatically. [DB Browser for SQLite](https://sqlitebro
 
 [Watch the booth clip (26 seconds)](media/booth-demo.mp4): part of the Allen Eagle Robotics booth interaction with Nicolas Powell and Gerard Andrews.
 
+Gerard Andrews of NVIDIA delivered the event's AI keynote. [Read his recap of the 2025 Texas BEST Robotics Championships](https://www.linkedin.com/posts/gerard-andrews-87166b_besttx-bestrobotics-ai-activity-7407132172312145921-YObs).
+
 The competition implementation used one Python script. After competition, it was split into eight modules and tested on the original setup. This edition adds configurable persona handling and installation documentation. The original script remains in `legacy/` as a historical reference and fallback with its original settings.
 
 The demonstrated mouth ran an independent open/close animation on a Pico H, powered externally and manually switched on when visitors approached. It was not synchronized with speech. The Python serial-control interface is available for future implementations; controller firmware is not included.
