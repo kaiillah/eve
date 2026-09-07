@@ -59,8 +59,7 @@ The competition implementation used one Python script. After competition, it was
 
 The demonstrated mouth ran an independent open/close animation on a Pico H, powered externally and manually switched on when visitors approached. It was not synchronized with speech. The Python serial-control interface is available for future implementations; controller firmware is not included.
 
-Khai La developed the software and AI integration. [Nicolas Powell](https://www.linkedin.com/in/nicolas-powell-223590377/) completed the mechanical design, paint job, and mouth-servo wiring to the Pico. completed the mechanical design, paint job, and mouth-servo wiring to the Pico.
-
+Khai La developed the software and AI integration. [Nicolas Powell](https://www.linkedin.com/in/nicolas-powell-223590377/) completed the mechanical design, paint job, and mouth-servo wiring to the Pico.
 ## Development
 
 The application is in `eve_main/`; `main.py` is the entry point. `tests/` contains source and simulated conversation checks, including custom-persona request handling.
