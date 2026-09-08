@@ -68,7 +68,7 @@ Khai La developed the software and AI integration. [Nicolas Powell](https://www.
 
 The application is in `eve_main/`; `main.py` is the entry point. `tests/` contains source and simulated conversation checks, including custom-persona request handling.
 
-In VS Code, use **File → Open Folder** to open the inner `Eve` folder containing this README, `eve_main/`, and `tests/`. Then select **Terminal → New Terminal**. Run the following in that terminal, from the project root:
+In VS Code, use **File → Open Folder** to open the project folder containing this README, `eve_main/`, and `tests/`. Then select **Terminal → New Terminal**. Run the following in that terminal, from the project root:
 
 ```bash
 python3 -m unittest discover -s tests -v
