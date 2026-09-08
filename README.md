@@ -15,6 +15,8 @@ Create another assistant by changing the Ollama persona and alias, selecting a v
 
 ## Installation
 
+**Platform:** Originally developed and tested on Ubuntu Linux using a Jetson Orin Nano Developer Kit (8 GB). This customizable edition targets Linux; full Windows operation and a fresh Jetson installation have not yet been tested.
+
 Follow [INSTALL.md](INSTALL.md) to install the Python dependencies, Ollama, and Piper. The guide uses Eve as the example and includes instructions for another persona.
 
 Python packages install together with:
